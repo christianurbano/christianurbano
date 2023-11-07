@@ -2,10 +2,10 @@
 - 🔭 Hoje Curso sistemas de informação
 - 🌱 Estudando React Native 
 <a href="https://github.com/christianurbano/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christianurbano" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=christianurbano" />
 </a>
 <a href="https://github.com/christianurbano/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianurbano&layout=compact&langs_count=8&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianurbano&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div style="display: inline_block"><br>
   <img height=30 align="center" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
