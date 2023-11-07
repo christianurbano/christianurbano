@@ -1,9 +1,7 @@
 ### Olá sou o Christian 👋
 - 🔭 Hoje Curso sistemas de informação
 - 🌱 Estudando React Native 
-<a href="https://github.com/christianurbano/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=christianurbano" />
-</a>
+
 <a href="https://github.com/christianurbano/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianurbano&layout=compact&langs_count=8&card_width=320" />
 </a>
