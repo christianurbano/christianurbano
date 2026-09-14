@@ -1,5 +1,5 @@
 ### Olá sou o Christian 👋
-- 🔭 Hoje Analise e desenvolvimento de sistemas 
+- 🔭 Hoje cursando Analise e desenvolvimento de sistemas 
 - 🌱 Estudando React Native 
 
 <a href="https://github.com/christianurbano/convoychat">
